@@ -1,0 +1,101 @@
+[
+  {
+  "question": "Of what, specifically, was man not allowed to eat in the Garden of Eden?",
+  "answerOptions": [
+  {"answer": "Grape"},
+  {"answer": "Banana"},
+  {"answer": "Mango", "is correct": true},
+  {"answer": "Apple"}
+  ]
+  },
+  {
+  "question": "In which book of the Bible do we find 'Nebuchadnezzar's image'?",
+  "answerOptions": [
+  {"answer": "Daniel", "isCorrect": true },
+  {"answer": "Exodus"},
+  {"answer": "Genesis"},
+  {"answer": "Solomon"}
+  ]
+  },
+  {
+  "question": "What was the name of the woman who hid the spies at Jericho?",
+  "answerOptions": [
+  {"answer": "Esther"},
+  {"answer": "Hannah"},
+  {"answer": "Rahab", "isCorrect": true},
+  {"answer": "Tabitha"}
+  ]
+  },
+  {
+  "question": "What reward did Jesus say the twelve apostles would get for forsaking everything and following him?",
+  "answerOptions": [
+  {"answer": "Tens of thousands"},
+  {"answer": "Twelve thrones”", "isCorrect": true},
+  {"answer": "Pouch of Gold"},
+  {"answer": "A wraith"}
+  ]
+  },
+  {
+  "question": "What was the name of the man who requested Jesus’ body for burial?",
+  "answerOptions": [
+  {"answer": "John"},
+  {"answer": "Joseph of Arimathea", "isCorrect": true},
+  {"answer": "Matthew"},
+  {"answer": "Philip"}
+  ]
+  },
+  {
+  "question": "Which disciple looked after Mary after the death of Jesus?",
+  "answerOptions": [
+  {"answer": "Peter"},
+  {"answer": "Sadrack"},
+  {"answer": "Mathias"},
+  {"answer": "John the Evangelist", "isCorrect": true}
+  ]
+  },
+  {
+  "question": "How many requests are in the Lord’s Prayer?",
+  "answerOptions": [
+  {"answer": "Seven", "isCorrect": true},
+  {"answer": "Four"},
+  {"answer": "Eight"},
+  {"answer": "Nine"}
+  ]
+  },
+  {
+  "question": "What is the 7th petition?",
+  "answerOptions": [
+  {"answer": "Forgive us all our trespasses"},
+  {"answer": "Give us this day"},
+  {"answer": "Deliver us from evil", "isCorrect": true},
+  {"answer": "Thy will be done on earth"}
+  ]
+  },
+  {
+  "question": "Which human author wrote Galatians?",
+  "answerOptions": [
+  {"answer": "Peter"},
+  {"answer": "John"},
+  {"answer": "Paul", "isCorrect": true},
+  {"answer": "Matthew"}
+  ]
+  },
+  {
+  "question": "Where is the Fruit of the Spirit found in the Bible?",
+  "answerOptions": [
+  {"answer": "Chronicles"},
+  {"answer": "Matthew"},
+  {"answer": "David"},
+  {"answer": "Galatians 5", "isCorrect": true}
+  ]
+  },
+  {
+    "question": "Who let the Israelites return to their homeland?",
+    "answerOptions": [
+    {"answer": "Samson"},
+    {"answer": "Matthew"},
+    {"answer": "Moses"},
+    {"answer": "Cyrus", "isCorrect": true}
+    ]
+    }
+]                                                                
